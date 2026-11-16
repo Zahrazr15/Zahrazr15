@@ -1,58 +1,44 @@
-# Hi, I'm Zahratur Ramadhani 👋
+# Hi, I'm Zahra! 👋
 
-#### Passionate about:
+### Information Technology Student | Software Development Enthusiast
 
-#### 🎨 UI/UX Design
+I'm an Information Technology Education student at **Yogyakarta State University**.
 
-#### 💻 Frontend & Web Development
+Passionate about building digital solutions, exploring new technologies, and turning ideas into something meaningful. I enjoy learning through hands-on projects, experimenting with different technologies, and solving problems through code.
 
-#### ⚙️ Software Engineering
+Currently exploring the world of software development, web technologies, and innovative digital solutions.
 
-I like turning ideas into simple, useful, and user-friendly digital experiences while continuously learning new technologies along the way.
+### 💻 Tech & Tools
 
-Here you can find some of the projects I've worked on during my journey in Information Technology.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🌐 Connect With Me:
+### 📌 What I'm Interested In
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tiaaraaay_)
+- Software Engineering & Application Development
+- Web Development
+- Technology Innovation
+- Cybersecurity
 
-## 🧑‍💻 Tech Stack:
+### 🌐 Let's Connect
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tiaaraaay_)
 
-![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 📊 GitHub Stats:
+### 📊 GitHub Activity
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiarasusilo&layout=compact&theme=radical" height="165">
-<img src="https://github-readme-stats.vercel.app/api?username=tiarasusilo&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zahrazr15&show_icons=true&hide_border=true&theme=transparent" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahrazr15&layout=compact&hide_border=true&theme=transparent" height="150">
 </p>
 
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiarasusilo&theme=radical" height="165">
-</p>## Hi there 👋
+---
 
-<!--
-**Zahrazr15/Zahrazr15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building, learning, and growing one project at a time. ✨*
