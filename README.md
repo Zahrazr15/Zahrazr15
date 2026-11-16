@@ -64,7 +64,6 @@ Some of the areas I've explored include:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahrazr15&layout=compact&theme=radical" height="165">
   <img src="https://github-readme-stats.vercel.app/api?username=Zahrazr15&show_icons=true&theme=radical" height="165">
 </p>
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zahrazr15&theme=radical" height="165">
 </p>
