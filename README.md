@@ -1,44 +1,74 @@
-# Hi, I'm Zahra! 👋
+# Hi, I'm Zahratur Ramadhani! 👋
 
-### Information Technology Student | Software Development Enthusiast
+### 💻 Information Technology Student | Software Development Enthusiast
 
-I'm an Information Technology Education student at **Yogyakarta State University**.
+I'm an Information Technology Education student at **Yogyakarta State University (UNY)**.
 
-Passionate about building digital solutions, exploring new technologies, and turning ideas into something meaningful. I enjoy learning through hands-on projects, experimenting with different technologies, and solving problems through code.
+I'm passionate about exploring technology, developing software, and creating innovative digital solutions. I enjoy transforming ideas into functional applications, solving real-world problems through technology, and continuously expanding my knowledge in software development.
 
-Currently exploring the world of software development, web technologies, and innovative digital solutions.
+Throughout my learning journey, I've been involved in various academic projects, technology competitions, and collaborative initiatives that have strengthened my technical, analytical, and problem-solving skills.
 
-### 💻 Tech & Tools
+I'm always excited to learn new things, experiment with different technologies, and turn challenges into opportunities to build something meaningful.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+## 🚀 Areas of Interest
 
-### 📌 What I'm Interested In
+- 💻 **Software Engineering** – Exploring software development principles, system design, and building functional applications.
+- 🌐 **Web Development** – Developing dynamic, interactive, and database-driven web applications.
+- ⚙️ **Application Development** – Building practical digital solutions that address real-world needs.
+- 🔐 **Cybersecurity** – Exploring network security, information protection, and cybersecurity fundamentals.
+- 🔬 **Technology Innovation** – Developing technology-driven ideas through research, experimentation, and collaborative projects.
 
-- Software Engineering & Application Development
-- Web Development
-- Technology Innovation
-- Cybersecurity
+## 🌐 Connect With Me:
 
-### 🌐 Let's Connect
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tiaaraaay_)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tiaaraaay_)
+## 🧑‍💻 Tech Stack:
 
-### 📊 GitHub Activity
+**Programming Languages**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Frameworks & Web Technologies**
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+**Database & Development Tools**
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## 🏆 Projects & Experiences
+
+I'm continuously challenging myself through academic projects, collaborative development, and technology competitions.
+
+Some of the areas I've explored include:
+
+- **Web Application Development** – Building web-based systems using PHP, Laravel, JavaScript, and MySQL.
+- **Assistive Technology** – Exploring digital solutions to support accessibility and inclusive education.
+- **Educational Technology** – Developing technology-based learning solutions and interactive applications.
+- **Technology Innovation** – Participating in technology competitions and collaborative projects focused on solving real-world problems.
+
+## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zahrazr15&show_icons=true&hide_border=true&theme=transparent" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahrazr15&layout=compact&hide_border=true&theme=transparent" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahrazr15&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zahrazr15&show_icons=true&theme=radical" height="165">
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zahrazr15&theme=radical" height="165">
 </p>
 
 ---
 
-*Building, learning, and growing one project at a time. ✨*
+*Keep learning, keep building, and keep creating. Every project is another step forward. 🚀*
